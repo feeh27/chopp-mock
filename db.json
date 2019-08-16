@@ -10,7 +10,7 @@
             "type": "Pilsen",
             "ibu": 8,
             "alcohol_content": 4.2,
-            "img_url": "/static/img/chopp/chopp-pilsen.jpg",
+            "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/left.jpg",
             "barrel_id": 2
         },
         {
@@ -21,9 +21,9 @@
             "name": "Chopp de trigo",
             "description": "Elaborada com malte de trigo e cevada, apresenta notas frutadas de banana e cravo. Aparência turva e baixo perfil de lúpulo de trigo e cevada com sabor marcante.",
             "type": "Weiss",
-            "ibu": "10",
+            "ibu": 10,
             "alcohol_content": 4.2,
-            "img_url": "/static/img/chopp/chopp-weiss.png",
+            "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/right.jpg",
             "barrel_id": 1
         }
     ]
