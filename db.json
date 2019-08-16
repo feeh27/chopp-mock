@@ -3,7 +3,7 @@
         {
             "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
             "position": "L",
-            "price": 2,
+            "price": 2.3,
             "quantity": 100,
             "name": "Chopp Pilsen",
             "description": "Levemente maltada, refrescante, com média carbonatação e aroma bem equilibrado de lúpulo floral.",
@@ -16,7 +16,7 @@
         {
             "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
             "position": "R",
-            "price": 2.5,
+            "price": 2.9,
             "quantity": 100,
             "name": "Chopp de trigo",
             "description": "Elaborada com malte de trigo e cevada, apresenta notas frutadas de banana e cravo. Aparência turva e baixo perfil de lúpulo de trigo e cevada com sabor marcante.",
