@@ -1,45 +1,47 @@
 {
-    "480c6e9119b5b8632c6357e1a6745d58": [
-        {
-            "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-            "position": "L",
-            "price": 2.3,
-            "quantity": 100,
-            "name": "Chopp Pilsen",
-            "description": "Levemente maltada, refrescante, com média carbonatação e aroma bem equilibrado de lúpulo floral.",
-            "type": "Pilsen",
-            "ibu": 8,
-            "alcohol_content": 4.2,
-            "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/left.jpg",
-            "barrel_id": 2
-        }
-    ],
-    "480c6e9119b5b8632c6357e1a6745d58x": [
-        {
-            "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-            "position": "L",
-            "price": 2.3,
-            "quantity": 100,
-            "name": "Chopp Pilsen",
-            "description": "Levemente maltada, refrescante, com média carbonatação e aroma bem equilibrado de lúpulo floral.",
-            "type": "Pilsen",
-            "ibu": 8,
-            "alcohol_content": 4.2,
-            "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/left.jpg",
-            "barrel_id": 2
-        },
-        {
-            "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-            "position": "R",
-            "price": 2.9,
-            "quantity": 100,
-            "name": "Chopp de trigo",
-            "description": "Elaborada com malte de trigo e cevada, apresenta notas frutadas de banana e cravo. Aparência turva e baixo perfil de lúpulo de trigo e cevada com sabor marcante.",
-            "type": "Weiss",
-            "ibu": 10,
-            "alcohol_content": 4.2,
-            "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/right.png",
-            "barrel_id": 1
-        }
-    ]
-  }
+    "beertaps": {
+        "480c6e9119b5b8632c6357e1a6745d58": [
+            {
+                "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
+                "position": "L",
+                "price": 2.3,
+                "quantity": 100,
+                "name": "Chopp Pilsen",
+                "description": "Levemente maltada, refrescante, com média carbonatação e aroma bem equilibrado de lúpulo floral.",
+                "type": "Pilsen",
+                "ibu": 8,
+                "alcohol_content": 4.2,
+                "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/left.jpg",
+                "barrel_id": 2
+            }
+        ],
+        "480c6e9119b5b8632c6357e1a6745d58x": [
+            {
+                "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
+                "position": "L",
+                "price": 2.3,
+                "quantity": 100,
+                "name": "Chopp Pilsen",
+                "description": "Levemente maltada, refrescante, com média carbonatação e aroma bem equilibrado de lúpulo floral.",
+                "type": "Pilsen",
+                "ibu": 8,
+                "alcohol_content": 4.2,
+                "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/left.jpg",
+                "barrel_id": 2
+            },
+            {
+                "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
+                "position": "R",
+                "price": 2.9,
+                "quantity": 100,
+                "name": "Chopp de trigo",
+                "description": "Elaborada com malte de trigo e cevada, apresenta notas frutadas de banana e cravo. Aparência turva e baixo perfil de lúpulo de trigo e cevada com sabor marcante.",
+                "type": "Weiss",
+                "ibu": 10,
+                "alcohol_content": 4.2,
+                "img_url": "/static/img/chopps/480c6e9119b5b8632c6357e1a6745d58/right.png",
+                "barrel_id": 1
+            }
+        ]
+    }
+}
