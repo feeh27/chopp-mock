@@ -5,7 +5,7 @@
             "data": [
                 {
                     "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-                    "position": "L",
+                    "position": "LEFT",
                     "price": 2.3,
                     "quantity": 100,
                     "name": "Chopp Pilsen",
@@ -23,7 +23,7 @@
             "data": [
                 {
                     "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-                    "position": "R",
+                    "position": "RIGHT",
                     "price": 2.9,
                     "quantity": 100,
                     "name": "Chopp de trigo",
@@ -41,7 +41,7 @@
             "data": [
                 {
                     "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-                    "position": "L",
+                    "position": "LEFT",
                     "price": 2.3,
                     "quantity": 100,
                     "name": "Chopp Pilsen",
@@ -54,7 +54,7 @@
                 },
                 {
                     "device_hash": "480c6e9119b5b8632c6357e1a6745d58",
-                    "position": "R",
+                    "position": "RIGHT",
                     "price": 2.9,
                     "quantity": 100,
                     "name": "Chopp de trigo",
